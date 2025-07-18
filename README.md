@@ -1,6 +1,6 @@
 # SGNet
 
- A Global-Local Feature Fusion Network for Randomly Missing Seismic Data Reconstruction ([Paper]()
+ A Global-Local Feature Fusion Network for Randomly Missing Seismic Data Reconstruction ([Paper]())
 
 ## Prerequisites
 - Python 3.8
