@@ -21,7 +21,7 @@ python test_and_save.py --dataroot D:/SoftWare/ChengxuXiangmu/LG_Data/Seismic_xi
 We use [BP 2007 synthetic seismic data](https://wiki.seg.org/wiki/2007_BP_Anisotropic_Velocity_Benchmark) , [fild seismic data](https://wiki.seg.org/wiki/2004_BP_velocity_estimation_benchmark_model)
 
 ## Pretrained Models
-You can download the pre-trained model from [BP 2007 synthetic seismic data](https://drive.google.com/file/d/1ZIXgfW1JrGvlVw8vmWci87dhgOIPapEg/view?usp=drive_link),
+You can download the pre-trained model from [BP 2007 synthetic seismic data](https://drive.google.com/file/d/1ZIXgfW1JrGvlVw8vmWci87dhgOIPapEg/view?usp=drive_link)
 
 ## Citation
 If you find this useful for your research, please use the following.
